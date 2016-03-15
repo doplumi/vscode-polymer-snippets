@@ -3,7 +3,7 @@
 	"displayName": "vscode-polymer-snippets",
 	"description": "VSCode snippets for Polymer and Web Components",
 	"version": "0.0.1",
-	"publisher": "blazejewicz",
+	"publisher": "peterblazejewicz",
 	"engines": {
 		"vscode": "^0.10.10"
 	},
